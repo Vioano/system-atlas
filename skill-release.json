@@ -3,7 +3,7 @@
   "skillId": "system-atlas",
   "version": "0.5.1",
   "source": {
-    "repository": "https://github.com/NikolaStarx/system-atlas"
+    "repository": "https://github.com/Vioano/system-atlas"
   },
   "updatePolicy": "manual-git",
   "upstream": {

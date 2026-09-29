@@ -20,7 +20,7 @@ complete autonomous-agent product.
 Requires Node.js 18 or newer. Run commands from this repository:
 
 ```bash
-git clone https://github.com/NikolaStarx/system-atlas.git
+git clone https://github.com/Vioano/system-atlas.git
 cd system-atlas
 npm ci --ignore-scripts
 npm test
@@ -55,7 +55,7 @@ The repository root is the skill folder; `SKILL.md` is its entrypoint. For a new
 installation, clone it to your user skill directory instead:
 
 ```bash
-git clone https://github.com/NikolaStarx/system-atlas.git ~/.codex/skills/system-atlas
+git clone https://github.com/Vioano/system-atlas.git ~/.codex/skills/system-atlas
 ```
 
 If that directory already exists, inspect and preserve its local changes before

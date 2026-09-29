@@ -4,7 +4,7 @@
 >
 > 整理日期：2026-09-20。当前实现：System Atlas 0.3.0。
 >
-> 仓库：https://github.com/NikolaStarx/system-atlas
+> 仓库：https://github.com/Vioano/system-atlas
 >
 > 这份文档根据创始人与 Codex 的设计讨论、明确提出的需求和当前源码整理。它不是逐字访谈。下文区分三种内容：**已明确的理念**、**已实现的能力**、**待讨论的产品推演**。尤其不能把未来构想当作当前软件能力，也不能把整理者的技术建议当成创始人已经决定的路线。
 
@@ -261,7 +261,7 @@ Archify 提供成熟的图形渲染、主题、图类型、导航与输出校验
 
 我正在做 System Atlas，当前是一个开源系统设计 Skill，未来希望发展成以 Graph Engineering 为核心的独立 Agent 产品。
 
-请先阅读随附的《System Atlas：核心哲学与独立 Agent 产品构想》，再查看仓库 https://github.com/NikolaStarx/system-atlas 。请以当前源码和本文为依据，不要把产品愿景当成实现，也不要把 Graph Engineering 预设成一个已有唯一标准定义的术语。如果你无法访问某个文件，请明确说明，不要假装读过。
+请先阅读随附的《System Atlas：核心哲学与独立 Agent 产品构想》，再查看仓库 https://github.com/Vioano/system-atlas 。请以当前源码和本文为依据，不要把产品愿景当成实现，也不要把 Graph Engineering 预设成一个已有唯一标准定义的术语。如果你无法访问某个文件，请明确说明，不要假装读过。
 
 我希望你进行深入、可以质疑前提的产品与技术研究，重点回答：
 
